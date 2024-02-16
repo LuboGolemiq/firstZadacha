@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\Zadachadve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\Zadachadve.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\Zadachadve.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\Zadachadve.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\bin\Debug\net8.0\Zadachadve.exe
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\bin\Debug\net8.0\Zadachadve.deps.json
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\bin\Debug\net8.0\Zadachadve.runtimeconfig.json
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\bin\Debug\net8.0\Zadachadve.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\bin\Debug\net8.0\Zadachadve.pdb
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\Zadachadve.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\refint\Zadachadve.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\Zadachadve.pdb
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\Zadachadve.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadachadve\obj\Debug\net8.0\ref\Zadachadve.dll

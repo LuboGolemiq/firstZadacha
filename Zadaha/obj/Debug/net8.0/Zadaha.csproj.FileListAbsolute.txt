@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\bin\Debug\net8.0\Zadaha.exe
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\bin\Debug\net8.0\Zadaha.deps.json
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\bin\Debug\net8.0\Zadaha.runtimeconfig.json
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\bin\Debug\net8.0\Zadaha.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\bin\Debug\net8.0\Zadaha.pdb
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\Zadaha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\Zadaha.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\Zadaha.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\Zadaha.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\Zadaha.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\refint\Zadaha.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\Zadaha.pdb
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\Zadaha.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Masivi\Zadaha\obj\Debug\net8.0\ref\Zadaha.dll
